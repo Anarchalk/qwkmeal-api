@@ -1,4 +1,4 @@
-# Express Boilerplate!
+# Qwk Meal API
 
 This is a boilerplate project used for starting new projects!
 
